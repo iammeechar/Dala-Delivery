@@ -15,12 +15,13 @@ start the program:
 Github Commit History. It is from two seperate repositories as the merge function produced a fatal error due to conflicting histories
 
 &rarr; [See commit history here](https://github.com/iammeechar/Dala-Delivery/commits/master)
+
 &rarr; [See commit history here](https://github.com/iammeechar/Food-Delivery-App../commits)
 
 ## 2. UML 
-UML Diagramm created with Planttext (Class, Component and User Diagrams for the project with Edlich's Fund)
+UML Diagramm created with StarUML (Class, Component and User Diagrams for the project with Edlich's Fund)
 
-&rarr; [PNGs and Planttext-Files](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/uml-diag)
+&rarr; [PNGs and StarUML-Files](https://github.com/iammeechar/Dala-Delivery/tree/master/UML)
 
 ## 3. DDD
 Creation with Trello board and Miro Event Storming file and resulting Diagrams and DDD 
@@ -57,7 +58,7 @@ Adding clen code developemnt for improved usage and readabilty as well as for be
 ### B)
 Creation of a Cheat Sheet for upcoming projects 
 
-&rarr; [Cheat Sheet](https://github.com/lunarie16/IngredientRecipeFinder/blob/main/ccd-cheat-sheet.md)
+&rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/master/Clean%20Code%20Cheat%20Sheet/Clean%20Code.md)
 
 ## 6. Build
 Usage of Pybuilder to build Project and have the ability to install and import as a package for usage in other projects 
