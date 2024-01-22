@@ -1,6 +1,6 @@
 # Dala Delivery
 This is a project for "Software Development " where a customers can make order food to be delivered to their location. You can search by a (list of) ingredient(s) to find matching recipes. Let's reduce some food waste!
-It is using sample images from istock image , who provide great images for any particular subject but in this case we were searching for sample images for our menu.
+It is using sample images from istock image , who provide great images for any subject matter but in this case we were searching for sample images for our menu.
 
 installing dependencies:
 `pip install -r requirements.txt`
