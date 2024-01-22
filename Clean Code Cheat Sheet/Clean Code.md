@@ -1,10 +1,10 @@
 # Clean Code Developement 
 
-1. Explanatory **variables**
-2. **Tests** (one assert statement per test)
+1. Have self explanatory **variables**
+2. Periodically run **Tests** 
 3. Write *good* **comments**
-4. Remove **dead code** (commented out code) 
-5. all **import** statements at the **top of file**
+4. Remove **dead code** 
+5. All **import** statements at the **top of file**
 6. **Error handling** &rarr; throw exceptions and write own exceptions if necessary and add context
 7. **Don’t repeat your self** &rarr; write functions 
    
