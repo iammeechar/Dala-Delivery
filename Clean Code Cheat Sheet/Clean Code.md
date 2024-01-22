@@ -6,7 +6,7 @@
 4. Remove **dead code** (commented out code) 
 5. all **import** statements at the **top of file**
 6. **Error handling** &rarr; throw exceptions and write own exceptions if necessary and add context
-7. **DRY - Don’t repeat your self** &rarr; write functions 
+7. **Don’t repeat your self** &rarr; write functions 
    
 ### Functions
 8. Functions should do **one thing**
