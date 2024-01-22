@@ -75,9 +75,9 @@ run tests manually with:
 `python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
 
 ## 8. Continuous Delivery
-Adding Github Action Test exectuion on every push to verify correctness of algorithm
+Adding Github Action Test exectuion on every push to verify correctness of the code
 
-&rarr; [GitHub Action - Test](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/.github/workflows)
+&rarr; [GitHub Action - Test](https://github.com/iammeechar/Dala-Delivery/tree/main/.github/workflows)
 
 ## 9. IDE
 Below are some shortcuts my favourite shortcuts to use during development. 
