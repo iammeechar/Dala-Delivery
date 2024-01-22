@@ -12,9 +12,10 @@ start the program:
 
 
 ## 1. Git
-Github Commit History
+Github Commit History. It is from two seperate repositories as the merge function produced a fatal error due to conflicting histories
 
-&rarr; [See commit history here]
+&rarr; [See commit history here](https://github.com/iammeechar/Dala-Delivery/commits/master)
+&rarr; [See commit history here](https://github.com/iammeechar/Food-Delivery-App../commits)
 
 ## 2. UML 
 UML Diagramm created with Planttext (Class, Component and User Diagrams for the project with Edlich's Fund)
