@@ -39,11 +39,8 @@ INSTALLED_APPS = [
     "customer",
     "restaurant",
 
-    'crispy_forms',
-    'allauth',
-    'allauth.account',
-    'allauth.socialaccount',
-
+    
+    
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
