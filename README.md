@@ -1,4 +1,4 @@
-# IngredientRecipeFinder
+# Dala Delivery
 This is a project for "Software Development " where a customers can make order food to be delivered to their location. You can search by a (list of) ingredient(s) to find matching recipes. Let's reduce some food waste!
 It is using sample images from istock image , who provide great images for any particular subject but in this case we were searching for sample images for our menu.
 
@@ -12,9 +12,9 @@ start the program:
 
 
 ## 1. Git
-usage of GitHub for the whole project time
+Github Commit History
 
-&rarr; [See commit history here](https://github.com/lunarie16/IngredientRecipeFinder/commits/main)
+&rarr; [See commit history here]
 
 ## 2. UML 
 UML Diagramm created with Planttext (Class, Component and User Diagrams for the project with Edlich's Fund)
