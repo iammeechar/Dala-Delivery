@@ -22,9 +22,10 @@ UML Diagramm created with Planttext (Class, Component and User Diagrams for the 
 &rarr; [PNGs and Planttext-Files](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/uml-diag)
 
 ## 3. DDD
-Creation with Miro of Event Storming file and resulting Diagrams and DDD 
+Creation with Trello board and Miro Event Storming file and resulting Diagrams and DDD 
 
-&rarr; [PDF-file with Event Storming, Diagram and DDD](https://github.com/lunarie16/IngredientRecipeFinder/blob/main/Domain-Driven-Design.pdf)
+&rarr; [Link to the Trello Board.](https://trello.com/b/DndzLlGj/food-delivery-app)
+&rarr; [PDF-file with Event Storming, Diagram and DDD](https://trello.com/b/DndzLlGj/food-delivery-app)
 
 ## 4. Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
