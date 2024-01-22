@@ -80,11 +80,11 @@ Adding Github Action Test exectuion on every push to verify correctness of algor
 &rarr; [GitHub Action - Test](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/.github/workflows)
 
 ## 9. IDE
-Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
+Below are some shortcuts my favourite shortcuts to use during development. 
 
 ### VS Code 
   
-&rarr; *build-in*:
+&rarr; *built-in shortcuts*:
 - ```cmd + f``` (find)
 - ```cmd + r``` (replace) 
 - ```option + c/v/x``` (copy/paste/cut)
