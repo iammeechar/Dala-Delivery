@@ -82,9 +82,7 @@ Adding Github Action Test exectuion on every push to verify correctness of algor
 ## 9. IDE
 Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from keyboard
 
-### Pycharm 
-&rarr; *own Shortcut*: 
-- ```option + r``` (run) 
+### VS Code 
   
 &rarr; *build-in*:
 - ```cmd + f``` (find)
