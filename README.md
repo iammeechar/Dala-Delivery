@@ -67,11 +67,10 @@ Usage of SonarQube to create a build management system used to scan for clean co
 
 &rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
-## 7. UnitTests
-Writing UnitTests to keep correctness and desired functionality of algortihm 
+## 7. DDD
 
-! tests will be executed automatically with every push to respository -> with github actions (see 8.)
-&rarr; [find tests here](https://github.com/lunarie16/IngredientRecipeFinder/blob/main/src/unittest/python/ingredientfinder_tests.py)
+
+&rarr; [find tests here]
 
 run tests manually with:
 `python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
