@@ -91,10 +91,7 @@ class Order(View):
             fail_silently=False
         )
 
-        context = {
-            'items': order_items['items'],
-            'price': price
-        }
+       
 
         return redirect('order-confirmation', pk=order.pk)
 
