@@ -68,7 +68,7 @@ Creation of a Cheat Sheet for upcoming projects
 ## 6. Build
 Usage of SonarQube to create a build management system used to scan for clean code and display vulnerabilities using Github Actions 
 
-&rarr; [with Github Actions](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
+&rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
 ## 7. UnitTests
 Writing UnitTests to keep correctness and desired functionality of algortihm 
