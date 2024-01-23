@@ -30,6 +30,8 @@ Creation with Trello board showing the various requirements for website interact
 
 
 ## 4. Metrices
+
+###A)
 Creation of SonarCloud account and connecting to  Github repository for metric badges:
 
 [![Maintainability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=sqale_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
@@ -45,6 +47,10 @@ Creation of SonarCloud account and connecting to  Github repository for metric b
 [![Security](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=new_security_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
 [![Lines of Code](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+###B)
+Below is a link containing the pdf document with an analysis of the project.
+[![Project Analysis]](https://github.com/iammeechar/Dala-Delivery/blob/main/Docs/Dala%20delivery%20Analysis.pdf)
 
 ## 5. Clean Code Dev
 Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
@@ -68,6 +74,7 @@ Usage of SonarQube to create a build management system used to scan for clean co
 &rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
 ## 7. DDD
+Below is a link to file containing the DDD diagrams.
 &rarr; [Link to the DDD diagrams](https://github.com/iammeechar/Dala-Delivery/tree/main/DDD%20Diagram)
 
 
