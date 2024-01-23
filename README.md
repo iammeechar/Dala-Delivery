@@ -32,19 +32,19 @@ Creation with Trello board showing the various requirements for website interact
 ## 4. Metrices
 Creation of SonarCloud account and connecting to  Github repository for metric badges:
 
-[![Maintainability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=sqale_rating&view=list)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Maintainability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=sqale_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[![Bugs](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Bugs](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[![Duplicated Lines (%)](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=duplicated_lines_density&view=list)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Duplicated Lines (%)](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=duplicated_lines_density&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[![Reliability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Reliability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[![Quality Gate Status](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Quality Gate Status](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[!Security](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=new_security_rating&view=list)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Security](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=new_security_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
-[![Lines of Code](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)(https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+[![Lines of Code](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
 ## 5. Clean Code Dev
 Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
