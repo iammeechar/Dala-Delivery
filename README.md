@@ -33,11 +33,17 @@ Creation with Trello board showing the various requirements for website interact
 Creation of SonarCloud account and connecting to  Github repository for metric badges:
 
 [![Maintainability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=sqale_rating&view=list)
+
 [![Bugs](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)
+
 [![Duplicated Lines (%)](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=duplicated_lines_density&view=list)
+
 [![Reliability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)
+
 [![Quality Gate Status](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
 [!Security](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=new_security_rating&view=list)
+
 [![Lines of Code](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
 ## 5. Clean Code Dev
