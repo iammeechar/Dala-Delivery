@@ -23,11 +23,11 @@ UML Diagramm created with StarUML (Class, Component and User Diagrams for the pr
 
 &rarr; [PNGs and StarUML-Files](https://github.com/iammeechar/Dala-Delivery/tree/master/UML)
 
-## 3. DDD
-Creation with Trello board and Miro Event Storming file and resulting Diagrams and DDD 
+## 3. Requirements Engineering
+Creation with Trello board showing the various requirements for website interaction between customers and the restaurant.
 
 &rarr; [Link to the Trello Board.](https://trello.com/b/DndzLlGj/food-delivery-app)
-&rarr; [PDF-file with Event Storming, Diagram and DDD](https://trello.com/b/DndzLlGj/food-delivery-app)
+
 
 ## 4. Metrices
 Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
