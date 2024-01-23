@@ -70,8 +70,7 @@ Usage of SonarQube to create a build management system used to scan for clean co
 ## 7. DDD
 &rarr; [Link to the DDD diagrams](https://github.com/iammeechar/Dala-Delivery/tree/main/DDD%20Diagram)
 
-run tests manually with:
-`python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
+
 
 ## 8. Continuous Delivery
 Adding Github Action Test exectuion on every push to verify correctness of the code
