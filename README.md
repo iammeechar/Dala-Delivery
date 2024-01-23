@@ -92,12 +92,11 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ``` shift + ctrl + d``` (start debugger)
 
 ## 10. DSL
-Usage of DSL like 'HTML' and 'regex' 
+Example of use of DSL like Bootstrap and CSS for HTML files   
 
-&rarr; [extraction of information from HTML content](https://github.com/lunarie16/IngredientRecipeFinder/blob/bb87c812dc109c53609cfde8f5f05a906a3e8672/recipe_scraper/recipe_scraper/spiders/scrapeRecipe.py#L19)
+&rarr; 
 
-&rarr; [extraction of words with regex](https://github.com/lunarie16/IngredientRecipeFinder/blob/bb87c812dc109c53609cfde8f5f05a906a3e8672/src/main/python/main.py#L23)
-
+&rarr; 
 ## 11. Functional Programming
 Apply functional programming for it's understanding and adding a class for Recipe as learned in Prog. I for java
 
