@@ -3,11 +3,11 @@ This is a project for "Software Development " where a customers can make order f
 It is using sample images from istock image , who provide great images for any subject matter but in this case we were searching for sample images for our menu.
 
 installing dependencies:
-`pip install -r requirements.txt`
+`pip install django`
 
 
 start the program: 
-`python src/main/python/main.py`
+ On the anaconda terminal locate the Delivery file and run`python manage.py runserver`
 
 
 
@@ -50,15 +50,12 @@ Creation of SonarCloud account and connecting to  Github repository for metric b
 Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
 
 ### A)
-&rarr; [parameter and return types](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L13)
+&rarr; [parameter and return types](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
-&rarr; [docstrings](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L15)
+&rarr; [docstrings](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L20)
 
-&rarr; [explanatory variable names](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L25)
+&rarr; [explanatory variable names](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L68)
 
-&rarr; [throw exception with context](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L7)
-
-&rarr; [one assert per test](https://github.com/lunarie16/IngredientRecipeFinder/blob/053c05a87481155602432f135db364b8468c7a3e/src/unittest/python/ingredientfinder_tests.py#L130)
 
 ### B)
 Creation of a Cheat Sheet for upcoming projects 
@@ -79,12 +76,12 @@ Writing UnitTests to keep correctness and desired functionality of algortihm
 run tests manually with:
 `python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
 
-## 8. Continuous Delivery
+## 7. Continuous Delivery
 Adding Github Action Test exectuion on every push to verify correctness of the code
 
 &rarr; [GitHub Action - Test](https://github.com/iammeechar/Dala-Delivery/tree/main/.github/workflows)
 
-## 9. IDE
+## 8. IDE
 Below are some shortcuts my favourite shortcuts to use during development. 
 
 ### VS Code 
@@ -96,20 +93,18 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ```cmd + /``` (comment (out))  
 - ``` shift + ctrl + d``` (start debugger)
 
-## 10. DSL
-Example of use of DSL like Bootstrap and CSS for HTML files   
+## 9. DSL
+Example of use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
 
-&rarr; 
+&rarr;[MDB links for Bootstrap](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/base.html#L19)
 
-&rarr; 
-## 11. Functional Programming
+&rarr;[Django HTML urls](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/order.html#L1)
+## 10. Functional Programming
 Apply functional programming for it's understanding and adding a class for Recipe as learned in Prog. I for java
 
-&rarr; [only final data structures](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L5)
+&rarr; [only final data structures](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
 
-&rarr; [(mostly) side effect free functions](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L14)
+&rarr; [(mostly) side effect free functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
-&rarr; [use closures / anonymous functions](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L12)
-
-&rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/main.py#L16)
-
+&rarr; [use closures / anonymous functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L114)
+&rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L98)
