@@ -1,6 +1,6 @@
 # Dala Delivery
 This is a project for "Software Development " where a customers can make order food to be delivered to their location. You can search by a (list of) ingredient(s) to find matching recipes. Let's reduce some food waste!
-It is using sample images from istock image , who provide great images for any subject matter but in this case we were searching for sample images for our menu.
+It is using sample images from istock image , who provide great images for any subject matter but in this case we were searching for sample images for our menu. The code is written in python.
 
 installing dependencies:
 `pip install django`
@@ -56,6 +56,7 @@ Below is a link containing the pdf document with an analysis of the project.
 Adding clean code developemnt links. This allows for improved usage and readabilty as well as for better maintance of code.
 
 ### A)
+
 &rarr; [parameter and return types](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
 &rarr; [docstrings](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L20)
@@ -64,6 +65,7 @@ Adding clean code developemnt links. This allows for improved usage and readabil
 
 
 ### B)
+
 Creation of a Cheat Sheet for upcoming projects 
 
 &rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/main/Clean%20Code%20Cheat%20Sheet/Clean%20Code%20Cheat%20Sheet.pdf)
@@ -97,7 +99,7 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ``` shift + ctrl + d``` (start debugger)
 
 ## 10. DSL
-Examples of the use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
+Below are some examples of the use of DSL like Bootstrap and CSS for HTML files and  Django urls for linking The HTML Files.   
 
 &rarr;[MDB links for Bootstrap](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/base.html#L19)
 
@@ -110,4 +112,5 @@ Application of  functional programming to allow for easier understanding of the 
 &rarr; [side effect free functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
 &rarr; [use closures / anonymous functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L114)
+
 &rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L98)
