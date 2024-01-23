@@ -36,7 +36,7 @@ class Order(View):
         # render the template
         return render(request, 'customer/order.html', context)
 
-    def post(self, request, *args, **kwargs):
+    def post(self, request,*args, **kwargs):
         name = request.POST.get('name')
         email = request.POST.get('email')
         street = request.POST.get('street')
