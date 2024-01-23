@@ -66,9 +66,9 @@ Creation of a Cheat Sheet for upcoming projects
 &rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/master/Clean%20Code%20Cheat%20Sheet/Clean%20Code.md)
 
 ## 6. Build
-Usage of Pybuilder to build Project and have the ability to install and import as a package for usage in other projects 
+Usage of SonarQube to create a build management system used to scan for clean code and display vulnerabilities using Github Actions 
 
-&rarr; [with Pybuilder](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/target/dist/IngredientRecipeFinder-1.0.dev0): find files [here](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/target)
+&rarr; [with Github Actions](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
 ## 7. UnitTests
 Writing UnitTests to keep correctness and desired functionality of algortihm 
