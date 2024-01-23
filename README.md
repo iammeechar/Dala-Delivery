@@ -19,7 +19,7 @@ Github Commit History. It is from two seperate repositories as the merge functio
 &rarr; [See commit history here](https://github.com/iammeechar/Food-Delivery-App../commits)
 
 ## 2. UML 
-UML Diagramm created with StarUML (Class, Component and User Diagrams for the project.)
+UML Diagrams created with StarUML (Class, Component and User Diagrams for the project.)
 
 &rarr; [PNGs and StarUML-Files](https://github.com/iammeechar/Dala-Delivery/tree/master/UML)
 
@@ -53,7 +53,7 @@ Below is a link containing the pdf document with an analysis of the project.
 [![Project Analysis]](https://github.com/iammeechar/Dala-Delivery/blob/main/Docs/Dala%20delivery%20Analysis.pdf)
 
 ## 5. Clean Code Dev
-Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
+Adding clean code developemnt links. This allows for improved usage and readabilty as well as for better maintance of code.
 
 ### A)
 &rarr; [parameter and return types](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
@@ -66,7 +66,7 @@ Adding clen code developemnt for improved usage and readabilty as well as for be
 ### B)
 Creation of a Cheat Sheet for upcoming projects 
 
-&rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/master/Clean%20Code%20Cheat%20Sheet/Clean%20Code.md)
+&rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/main/Clean%20Code%20Cheat%20Sheet/Clean%20Code%20Cheat%20Sheet.pdf)
 
 ## 6. Build
 Usage of SonarQube to create a build management system used to scan for clean code and display vulnerabilities using Github Actions 
@@ -97,17 +97,17 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ``` shift + ctrl + d``` (start debugger)
 
 ## 10. DSL
-Example of use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
+Examples of the use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
 
 &rarr;[MDB links for Bootstrap](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/base.html#L19)
 
 &rarr;[Django HTML urls](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/order.html#L1)
 ## 11. Functional Programming
-Apply functional programming for it's understanding and adding a class for Recipe as learned in Prog. I for java
+Application of  functional programming to allow for easier understanding of the various functions and variables in python
 
 &rarr; [only final data structures](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
 
-&rarr; [(mostly) side effect free functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
+&rarr; [side effect free functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
 &rarr; [use closures / anonymous functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L114)
 &rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L98)
