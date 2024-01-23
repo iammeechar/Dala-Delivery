@@ -19,7 +19,7 @@ Github Commit History. It is from two seperate repositories as the merge functio
 &rarr; [See commit history here](https://github.com/iammeechar/Food-Delivery-App../commits)
 
 ## 2. UML 
-UML Diagramm created with StarUML (Class, Component and User Diagrams for the project with Edlich's Fund)
+UML Diagramm created with StarUML (Class, Component and User Diagrams for the project.)
 
 &rarr; [PNGs and StarUML-Files](https://github.com/iammeechar/Dala-Delivery/tree/master/UML)
 
@@ -68,19 +68,17 @@ Usage of SonarQube to create a build management system used to scan for clean co
 &rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
 ## 7. DDD
-
-
-&rarr; [find tests here]
+&rarr; [Link to the DDD diagrams](https://github.com/iammeechar/Dala-Delivery/tree/main/DDD%20Diagram)
 
 run tests manually with:
 `python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
 
-## 7. Continuous Delivery
+## 8. Continuous Delivery
 Adding Github Action Test exectuion on every push to verify correctness of the code
 
 &rarr; [GitHub Action - Test](https://github.com/iammeechar/Dala-Delivery/tree/main/.github/workflows)
 
-## 8. IDE
+## 9. IDE
 Below are some shortcuts my favourite shortcuts to use during development. 
 
 ### VS Code 
@@ -92,13 +90,13 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ```cmd + /``` (comment (out))  
 - ``` shift + ctrl + d``` (start debugger)
 
-## 9. DSL
+## 10. DSL
 Example of use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
 
 &rarr;[MDB links for Bootstrap](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/base.html#L19)
 
 &rarr;[Django HTML urls](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/order.html#L1)
-## 10. Functional Programming
+## 11. Functional Programming
 Apply functional programming for it's understanding and adding a class for Recipe as learned in Prog. I for java
 
 &rarr; [only final data structures](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
