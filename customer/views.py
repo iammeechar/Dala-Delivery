@@ -17,6 +17,8 @@ class About(View):
 
 
 class Order(View):
+    """add images to the menu via django admin 
+    include checkbox and code to pick user details"""
     def get(self, request, *args, **kwargs):
         # get every item from each category
         appetizers = MenuItems.objects.filter(

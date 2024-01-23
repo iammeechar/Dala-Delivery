@@ -3,11 +3,11 @@ This is a project for "Software Development " where a customers can make order f
 It is using sample images from istock image , who provide great images for any subject matter but in this case we were searching for sample images for our menu.
 
 installing dependencies:
-`pip install -r requirements.txt`
+`pip install django`
 
 
 start the program: 
-`python src/main/python/main.py`
+ On the anaconda terminal locate the Delivery file and run`python manage.py runserver`
 
 
 
@@ -23,37 +23,39 @@ UML Diagramm created with StarUML (Class, Component and User Diagrams for the pr
 
 &rarr; [PNGs and StarUML-Files](https://github.com/iammeechar/Dala-Delivery/tree/master/UML)
 
-## 3. DDD
-Creation with Trello board and Miro Event Storming file and resulting Diagrams and DDD 
+## 3. Requirements Engineering
+Creation with Trello board showing the various requirements for website interaction between customers and the restaurant.
 
 &rarr; [Link to the Trello Board.](https://trello.com/b/DndzLlGj/food-delivery-app)
-&rarr; [PDF-file with Event Storming, Diagram and DDD](https://trello.com/b/DndzLlGj/food-delivery-app)
+
 
 ## 4. Metrices
-Creation of SonarCloud account and connecting to repository (with advanced settings) for metric badges:
+Creation of SonarCloud account and connecting to  Github repository for metric badges:
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder)
-<!-- [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=lunarie16_IngredientRecipeFinder&metric=coverage)](https://sonarcloud.io/summary/new_code?id=lunarie16_IngredientRecipeFinder) -->
+[![Maintainability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=sqale_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Bugs](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Duplicated Lines (%)](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=duplicated_lines_density&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Reliability Rating](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=reliability_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Quality Gate Status](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Security](https://sonarcloud.io/component_measures?id=iammeechar_Dala-Delivery&metric=new_security_rating&view=list)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
+
+[![Lines of Code](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)](https://sonarcloud.io/summary/new_code?id=iammeechar_Dala-Delivery)
 
 ## 5. Clean Code Dev
 Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
 
 ### A)
-&rarr; [parameter and return types](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L13)
+&rarr; [parameter and return types](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
-&rarr; [docstrings](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L15)
+&rarr; [docstrings](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L20)
 
-&rarr; [explanatory variable names](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L25)
+&rarr; [explanatory variable names](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
 
-&rarr; [throw exception with context](https://github.com/lunarie16/IngredientRecipeFinder/blob/4fdee32c880bd9b0ddc84ddf32752fb916c3f81f/ingredientFinder.py#L7)
-
-&rarr; [one assert per test](https://github.com/lunarie16/IngredientRecipeFinder/blob/053c05a87481155602432f135db364b8468c7a3e/src/unittest/python/ingredientfinder_tests.py#L130)
 
 ### B)
 Creation of a Cheat Sheet for upcoming projects 
@@ -61,25 +63,24 @@ Creation of a Cheat Sheet for upcoming projects
 &rarr; [Cheat Sheet](https://github.com/iammeechar/Dala-Delivery/blob/master/Clean%20Code%20Cheat%20Sheet/Clean%20Code.md)
 
 ## 6. Build
-Usage of Pybuilder to build Project and have the ability to install and import as a package for usage in other projects 
+Usage of SonarQube to create a build management system used to scan for clean code and display vulnerabilities using Github Actions 
 
-&rarr; [with Pybuilder](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/target/dist/IngredientRecipeFinder-1.0.dev0): find files [here](https://github.com/lunarie16/IngredientRecipeFinder/tree/main/target)
+&rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
-## 7. UnitTests
-Writing UnitTests to keep correctness and desired functionality of algortihm 
+## 7. DDD
 
-! tests will be executed automatically with every push to respository -> with github actions (see 8.)
-&rarr; [find tests here](https://github.com/lunarie16/IngredientRecipeFinder/blob/main/src/unittest/python/ingredientfinder_tests.py)
+
+&rarr; [find tests here]
 
 run tests manually with:
 `python3 -m unittest -v src/unittest/python/ingredientfinder_tests.py`
 
-## 8. Continuous Delivery
+## 7. Continuous Delivery
 Adding Github Action Test exectuion on every push to verify correctness of the code
 
 &rarr; [GitHub Action - Test](https://github.com/iammeechar/Dala-Delivery/tree/main/.github/workflows)
 
-## 9. IDE
+## 8. IDE
 Below are some shortcuts my favourite shortcuts to use during development. 
 
 ### VS Code 
@@ -91,21 +92,18 @@ Below are some shortcuts my favourite shortcuts to use during development.
 - ```cmd + /``` (comment (out))  
 - ``` shift + ctrl + d``` (start debugger)
 
-## 10. DSL
-Usage of DSL like 'HTML' and 'regex' 
+## 9. DSL
+Example of use of DSL like Bootstrap and CSS for HTML files. Django urls for linking The HTML Files.   
 
-&rarr; [extraction of information from HTML content](https://github.com/lunarie16/IngredientRecipeFinder/blob/bb87c812dc109c53609cfde8f5f05a906a3e8672/recipe_scraper/recipe_scraper/spiders/scrapeRecipe.py#L19)
+&rarr;[MDB links for Bootstrap](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/base.html#L19)
 
-&rarr; [extraction of words with regex](https://github.com/lunarie16/IngredientRecipeFinder/blob/bb87c812dc109c53609cfde8f5f05a906a3e8672/src/main/python/main.py#L23)
-
-## 11. Functional Programming
+&rarr;[Django HTML urls](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/Templates/customer/order.html#L1)
+## 10. Functional Programming
 Apply functional programming for it's understanding and adding a class for Recipe as learned in Prog. I for java
 
-&rarr; [only final data structures](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L5)
+&rarr; [only final data structures](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
 
-&rarr; [(mostly) side effect free functions](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L14)
+&rarr; [(mostly) side effect free functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L22)
 
-&rarr; [use closures / anonymous functions](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/recipe.py#L12)
-
-&rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/lunarie16/IngredientRecipeFinder/blob/1ee0024ea1816d2a820f3439ed63d91c83b5b9b6/src/main/python/main.py#L16)
-
+&rarr; [use closures / anonymous functions](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L114)
+&rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L98)
