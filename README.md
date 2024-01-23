@@ -76,7 +76,7 @@ Usage of SonarQube to create a build management system used to scan for clean co
 &rarr; [with SonarQube for python CLI](https://github.com/iammeechar/Dala-Delivery/blob/main/.github/workflows/build.yml)
 
 ## 7. DDD
-Below is a link to file containing the DDD diagrams.
+Below is a link to file containing the DDD diagrams. These diagrams were created on miro
 &rarr; [Link to the DDD diagrams](https://github.com/iammeechar/Dala-Delivery/tree/main/DDD%20Diagram)
 
 
