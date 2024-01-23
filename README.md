@@ -54,7 +54,7 @@ Adding clen code developemnt for improved usage and readabilty as well as for be
 
 &rarr; [docstrings](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L20)
 
-&rarr; [explanatory variable names](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L68)
+&rarr; [explanatory variable names](https://github.com/iammeechar/Dala-Delivery/blob/main/customer/views.py#L72)
 
 
 ### B)
